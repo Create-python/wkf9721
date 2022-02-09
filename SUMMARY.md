@@ -2,9 +2,14 @@
 
 - 编码之外
   - 读书写作
-    * [Untitled](编码之外/读书写作/Untitled.md)
+    * [2022规划](编码之外/读书写作/2022规划.md)
+    * [2022年书单](编码之外/读书写作/2022年书单.md)
+    * [谋生王志纲谈生涯规划](编码之外/读书写作/谋生王志纲谈生涯规划.md)
+    * [平凡的世界](编码之外/读书写作/平凡的世界.md)
   - 自媒体写作
-    * [Untitled](编码之外/自媒体写作/Untitled.md)
+    * [男人如何判定女人是否可以结婚](编码之外/自媒体写作/男人如何判定女人是否可以结婚.md)
+    * [年味为何越来越淡](编码之外/自媒体写作/年味为何越来越淡.md)
+    * [疑问生活思考](编码之外/自媒体写作/疑问生活思考.md)
 - 计算机网络
   * [Untitled](计算机网络/Untitled.md)
 - 面试准备和求职
@@ -26,7 +31,7 @@
 - python服务器开发web
   * [Untitled](python服务器开发web/Untitled.md)
 - python基础
-  * [Untitled](python基础/Untitled.md)
+  * [需要巩固的知识](python基础/需要巩固的知识.md)
 - python爬虫
   * [Untitled](python爬虫/Untitled.md)
 - python云计算
