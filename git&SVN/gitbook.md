@@ -6,9 +6,3 @@ book sm
 
 
 
-问题：you can't delete this branch beause an open pull request depends on it 
-
-```
-
-```
-

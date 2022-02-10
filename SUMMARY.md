@@ -32,6 +32,9 @@
   * [Untitled](python服务器开发web/Untitled.md)
 - python基础
   * [需要巩固的知识](python基础/需要巩固的知识.md)
+  * [assert的用法](python基础/assert的用法.md)
+- python进阶
+  * [pyinstaller打包的高级用法](python进阶/pyinstaller打包的高级用法.md)
 - python爬虫
   * [Untitled](python爬虫/Untitled.md)
 - python云计算
