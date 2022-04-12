@@ -7,6 +7,7 @@
     * [谋生王志纲谈生涯规划](编码之外/读书写作/谋生王志纲谈生涯规划.md)
     * [平凡的世界](编码之外/读书写作/平凡的世界.md)
   - 自媒体写作
+    * [《庄子-知北游》：天地有大美而不言，大道无为而无不为](编码之外/自媒体写作/《庄子-知北游》：天地有大美而不言，大道无为而无不为.md)
     * [鸡汤](编码之外/自媒体写作/鸡汤.md)
     * [男人如何判定女人是否可以结婚](编码之外/自媒体写作/男人如何判定女人是否可以结婚.md)
     * [年味为何越来越淡](编码之外/自媒体写作/年味为何越来越淡.md)
@@ -68,6 +69,19 @@
     * [4.3 Model的查询操作API](Django/基础/4.3%20Model的查询操作API.md)
     * [5.3 使用ModelAdmin自定义管理后台](Django/基础/5.3%20使用ModelAdmin自定义管理后台.md)
     * [6.1视图初探](Django/基础/6.1视图初探.md)
+  - 商城项目
+    - Users
+      - 注册
+        * [手机号](Django/商城项目/users/注册/手机号.md)
+        * [需求](Django/商城项目/users/注册/需求.md)
+        * [验证图片](Django/商城项目/users/注册/验证图片.md)
+        * [用户名](Django/商城项目/users/注册/用户名.md)
+      * [Models](Django/商城项目/users/models.md)
+    * [创建数据库-运维](Django/商城项目/创建数据库-运维.md)
+    * [框架](Django/商城项目/框架.md)
+    * [HttpRequest对象-四种传参](Django/商城项目/HttpRequest对象-四种传参.md)
+    * [Live Server](Django/商城项目/live-server.md)
+    * [Settings](Django/商城项目/settings.md)
 - Git SVN
   * [Gitbook](git&SVN/gitbook.md)
 - Linux Shell
