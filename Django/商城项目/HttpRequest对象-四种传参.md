@@ -117,7 +117,7 @@ def get(request):
 
 **Django默认开启了CSRF防护**，会对上述请求方式进行CSRF防护验证，在测试时可以关闭CSRF防护机制，方法为在settings.py文件中注释掉CSRF中间件，如：
 
-![img](E:\桌面\note\images\csrf.png)
+![img](https://github.com/Create-python/wkf9721/blob/master/images/csrf.png?raw=true)
 
 ### 4.1 表单类型 Form Data
 
